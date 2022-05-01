@@ -1,0 +1,10 @@
+.header-container{
+    line-height: 50px;
+    background-color: rgba(0, 0, 0, 0.823);
+}
+.header-container a{
+    color: white;
+   font-size: 25px;
+   text-decoration: none;
+   margin-right: 30px;
+}

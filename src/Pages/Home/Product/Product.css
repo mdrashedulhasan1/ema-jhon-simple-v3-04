@@ -1,0 +1,20 @@
+.product-container{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 5px;
+    padding: 10px;
+    border-bottom: 2px solid rgb(87, 77, 77);
+}
+.image-container{
+    margin-right: 20px;
+}
+.name-text{
+    color: rgba(0, 0, 255, 0.847);
+    font-weight: 400;
+}
+.btn-style{
+    padding: 10px 20px;
+    background-color: tomato;
+    border-radius: 20px;
+    font-weight: 600;
+}
